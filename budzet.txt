@@ -1,3 +1,4 @@
-Budzet 500
+Budzet 5000
 Tancerki 205,30
 DJ 32,70
+Koko 4000
