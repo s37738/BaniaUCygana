@@ -1,4 +1,13 @@
-Budzet 5000
-Tancerki 205,30
-DJ 32,70
-Koko 4000
+BUDŻET IMPREZY — 5000 ZŁ
+
+Całkowity budżet: 5000 zł
+
+PODZIAŁ KOSZTÓW
+
+Sala / prywatna przestrzeń — 350 zł
+Tancerka / krótki występ — 300 zł
+Muzyka / DJ — 150 zł
+Napoje i przekąski — 150 zł
+Rezerwa na dodatkowe wydatki — 50 zł
+Koko - 4000 zł
+
