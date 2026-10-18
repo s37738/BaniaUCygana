@@ -1,1 +1,3 @@
 Budzet 500
+Tancerki 205,30
+DJ 32,70
