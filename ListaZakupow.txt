@@ -1,0 +1,127 @@
+🛒 LISTA ZAKUPOWA – BaniaUCygana
+
+🥤 1. Napoje
+- [ ] 6 × Coca-Cola
+- [ ] 4 × Sprite
+- [ ] 4 × Fanta
+- [ ] 4 × Pepsi
+- [ ] 3 × sok pomarańczowy
+- [ ] 3 × sok jabłkowy
+- [ ] 3 × sok multiwitamina
+- [ ] 2 × ice tea
+- [ ] 2 × lemoniada
+- [ ] 4 × woda gazowana
+- [ ] 4 × woda niegazowana
+- [ ] 2 × dzbanek na napoje
+- [ ] 5 kg lodu
+- [ ] Cytryny
+- [ ] Limonki
+- [ ] Piwo 0%
+- [ ] Mięta
+- [ ] Syrop malinowy
+- [ ] Syrop arbuzowy
+
+🍕 2. Jedzenie
+- [ ] 5 × pizza mrożona
+- [ ] 3 × duże zapiekanki
+- [ ] 2 × paczka nuggetsów
+- [ ] Frytki
+- [ ] 2 × tortilla
+- [ ] Ser żółty
+- [ ] Szynka
+- [ ] Salami
+- [ ] Ketchup
+- [ ] Sos czosnkowy
+- [ ] Sos BBQ
+- [ ] Majonez
+- [ ] 2 × duża paczka nachosów
+- [ ] Salsa
+- [ ] Guacamole
+- [ ] Mini burgery
+- [ ] Hot dogi
+- [ ] Parówki
+- [ ] Bułki
+
+🍿 3. Przekąski
+- [ ] 5 × chipsy paprykowe
+- [ ] 4 × chipsy solone
+- [ ] 3 × chipsy fromage
+- [ ] 3 × nachosy
+- [ ] 4 × paluszki
+- [ ] 3 × krakersy
+- [ ] 2 × popcorn
+- [ ] 2 × orzeszki ziemne
+- [ ] 2 × prażynki
+- [ ] 2 × chrupki
+- [ ] Żelki kwaśne
+- [ ] Żelki owocowe
+- [ ] Pianki marshmallow
+- [ ] Czekoladki
+- [ ] Wafelki
+- [ ] Ciastka
+- [ ] Cukierki
+- [ ] Gumy do żucia
+
+🍔 4. Strefa nocnego głodu
+- [ ] 2 × duży chleb tostowy
+- [ ] Ser tostowy
+- [ ] Szynka
+- [ ] Masło
+- [ ] Jajka
+- [ ] Kiełbaski
+- [ ] Bułki do burgerów
+- [ ] Ogórki konserwowe
+- [ ] Pomidory
+- [ ] Sałata
+- [ ] Cebula
+- [ ] Sos burgerowy
+- [ ] Makarony instant
+
+🍰 5. Słodki stół
+- [ ] Duże ciasto
+- [ ] Muffinki
+- [ ] Donuty
+- [ ] Brownie
+- [ ] Lody
+- [ ] Bita śmietana
+- [ ] Owoce
+- [ ] Truskawki
+- [ ] Winogrona
+- [ ] Arbuz
+
+🎉 6. Dekoracje
+- [ ] Balony
+- [ ] Girlanda LED
+- [ ] Kolorowe lampki
+- [ ] Konfetti
+- [ ] Serpentyny
+- [ ] Baner IMPREZA
+- [ ] Świecące pałeczki
+- [ ] Kolorowe kubeczki
+- [ ] Papierowe talerzyki
+- [ ] Serwetki
+- [ ] Słomki
+- [ ] Obrus
+- [ ] Worki na śmieci
+
+🔊 7. Techniczne rzeczy
+- [ ] Głośnik Bluetooth
+- [ ] Przedłużacz
+- [ ] Ładowarki
+- [ ] Powerbank
+- [ ] Baterie
+- [ ] Papier toaletowy
+- [ ] Ręczniki papierowe
+- [ ] Mydło
+- [ ] Płyn do naczyń
+- [ ] Gąbki
+- [ ] Ręczniki
+- [ ] Apteczka
+- [ ] Woda i przekąski na później
+
+🎮 8. Atrakcje
+- [ ] Karty do gry
+- [ ] Żetony do Kasyna
+- [ ] Koks
+- [ ] Planszówki
+- [ ] Tarcza do dartów
