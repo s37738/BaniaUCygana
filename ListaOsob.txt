@@ -1,5 +1,6 @@
 👥 BaniaUCygana – LISTA OSÓB
-
+- [ ] Barman
+- [ ] Kucharz
 - [ ] Ochroniarz wielki jak szafa
 - [ ] DJ 
 - [ ] Fotograf
