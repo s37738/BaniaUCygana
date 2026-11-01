@@ -39,10 +39,55 @@ Zasady:
 
 
 4. Wynajęcie mobilnego kasyna
+Opis: Mobilne kasyno, w którym uczestnicy mogą stracić wszystko, mimo że na początku nie mieli nic.
+
+Wszystko odbywa się na fikcyjnych żetonach. Żadnego prawdziwego hajsu.
+Zasady:
+
+    Każdy zaczyna z 1000 żetonów.
+    Osoba, która straci wszystko w ciągu pierwszych 10 minut, zostaje wpisana do Księgi Frajerów.
+    Nie wolno pożyczać żetonów od krupiera.
+    Krupier ma zawsze rację, nawet kiedy nie ma pojęcia, co robi.
+    Osoba, która wygra najwięcej, zostaje Ministrem Finansów.
+    Osoba, która przegra najwięcej, zostaje Ministrem Zadłużenia.
+    Nie wolno płakać nad przegranymi żetonami. Można natomiast wygłosić przemówienie o upadku własnego imperium.
+
+Specjalne wydarzenia:
+
+A. BANKRUT ROKU Uczestnik, który straci wszystkie żetony, musi odebrać certyfikat bankructwa.
+
+B. RATUJ SWÓJ MAJĄTEK Bankrut może odzyskać 100 żetonów za wykonanie zadania wyznaczonego przez organizatora.
+
+C. PRYWATYZACJA KASYNA Co godzinę losowany jest uczestnik, który zostaje prezesem kasyna na następne 5 minut.
+
+D. KOMISJA ŚLEDCZA Jeżeli ktoś wygra absurdalną ilość żetonów, pozostali mogą przeprowadzić z nim publiczne przesłuchanie.
+
 5. Igrzyska śmierci studentów
+Opis:
+
+Wielka imprezowa olimpiada, podczas której studenci będą rywalizować w konkurencjach wymagających siły, sprytu, refleksu oraz umiejętności udawania, że wszystko jest pod kontrolą.
+
+Każdy wydział wystawia swoją reprezentację. Przegrani nie tracą życia, ale tracą prawo do wypowiadania się na temat sportu przez następne 24 godziny.
+Zasady ogólne:
+
+    Każda drużyna musi mieć nazwę. Nazwy typu „Drużyna 1” skutkują automatycznym uznaniem jej członków za NPC.
+    Kapitan musi wyglądać, jakby wiedział, co robi. Nie musi faktycznie wiedzieć.
+    Zabronione jest sabotowanie innych drużyn. Od tego są zadania organizatorów.
+    Każdy uczestnik musi przynajmniej raz wziąć udział w konkurencji.
+    Protesty można zgłaszać wyłącznie osobie, która wygląda na najbardziej kompetentną. Organizatorzy nie gwarantują, że taka osoba istnieje.
 6. Wystrzelenie 6 karłów z procy (lub 7)
+Opis:
+
+Wielki projekt balistyczny, który na etapie planowania wydawał się genialny, a na etapie realizacji wymagał konsultacji z osobą posiadającą więcej niż trzy szare komórki.
+
+Ze względów oczywistych do procy (oficjalnie ;) nie pakujemy ludzi. Wykorzystujemy sześć lub siedem pluszowych manekinów, które będą reprezentować delegację wydziałową.
 7. Granie w Darta ale toporkami
+Regulamin Grania w Darta Toporkami
+
+- Nakurwiasz toporkiem w tarcze i nie próbujesz trafic ziomka obok (opcjonalnie)
 8. Koks
+Regulamin Koks
+Wciągać nosem nie dupą tyle wystarczy
 9. Gala chujowych osiągnięć 
 10. Wyscigi na kukirinach kto pierwszy trafi na dołek wygrywa
 11. Turniej w biciu się cegłówkami
