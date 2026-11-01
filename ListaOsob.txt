@@ -4,3 +4,6 @@
 - [ ] DJ 
 - [ ] Fotograf
 - [ ] Alfons
+- [ ] Kierowca
+- [ ] Pirotechnik
+- [ ] Dealer 
