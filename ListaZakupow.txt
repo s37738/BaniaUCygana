@@ -20,6 +20,10 @@
 - [ ] Mięta
 - [ ] Syrop malinowy
 - [ ] Syrop arbuzowy
+- [ ] 2 × sok pomidorowy
+- [ ] 2 × maślanka
+- [ ] 2 × woda smakowa
+- [ ] 1 × napój aloesowy
 
 🍕 2. Jedzenie
 - [ ] 5 × pizza mrożona
@@ -41,6 +45,11 @@
 - [ ] Hot dogi
 - [ ] Parówki
 - [ ] Bułki
+- [ ] 2 × puszka szprotek
+- [ ] 1 × słoik buraków
+- [ ] 2 × kaszanka
+- [ ] 1 × duży słoik chrzanu
+- [ ] 2 × paczka pieczywa czosnkowego
 
 🍿 3. Przekąski
 - [ ] 5 × chipsy paprykowe
@@ -61,6 +70,11 @@
 - [ ] Ciastka
 - [ ] Cukierki
 - [ ] Gumy do żucia
+- [ ] Lukrecja
+- [ ] 2 × paczka sucharków
+- [ ] 1 × krakersy bez soli
+- [ ] 2 × sezamki
+- [ ] 2 × paluszki serowe
 
 🍔 4. Strefa nocnego głodu
 - [ ] 2 × duży chleb tostowy
@@ -76,6 +90,11 @@
 - [ ] Cebula
 - [ ] Sos burgerowy
 - [ ] Makarony instant
+- [ ] 1 × puszka fasoli
+- [ ] 1 × słoik kapusty kiszonej
+- [ ] 1 × pasztet
+- [ ] 1 × chleb razowy
+- [ ] 1 × musztarda sarepska
 
 🍰 5. Słodki stół
 - [ ] Duże ciasto
@@ -88,6 +107,12 @@
 - [ ] Truskawki
 - [ ] Winogrona
 - [ ] Arbuz
+- [ ] 1 × chałwa
+- [ ] 1 × galaretka cytrynowa
+- [ ] 1 × kisiel wiśniowy
+- [ ] 1 × rodzynki
+- [ ] 1 × cukierki anyżowe
+- [ ] 2 × paczka ciasteczek
 
 🎉 6. Dekoracje
 - [ ] Balony
@@ -103,6 +128,10 @@
 - [ ] Słomki
 - [ ] Obrus
 - [ ] Worki na śmieci
+- [ ] 1 × papierowy obrus w kwiatki
+- [ ] 1 × serwetki świąteczne
+- [ ] 1 × świeczki urodzinowe z cyfrą 60
+- [ ] 1 × balony z napisem BABY
 
 🔊 7. Techniczne rzeczy
 - [ ] Głośnik Bluetooth
@@ -118,6 +147,11 @@
 - [ ] Ręczniki
 - [ ] Apteczka
 - [ ] Woda i przekąski na później
+- [ ] 1 × budzik analogowy
+- [ ] 1 × dzwonek rowerowy
+- [ ] 1 × rolka folii bąbelkowej
+- [ ] 1 × taśma klejąca
+- [ ] 1 × zapasowa listwa zasilająca
 
 🎮 8. Atrakcje
 - [ ] Karty do gry
